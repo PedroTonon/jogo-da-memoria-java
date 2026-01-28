@@ -1,0 +1,18 @@
+# BlueJ
+*.ctxt
+
+# Compilados
+*.class
+
+# Dados gerados pelo programa
+*.bin
+
+# Documentação gerada
+doc/
+
+# Pastas de build
+bin/
+out/
+
+# Sistema
+.DS_Store
